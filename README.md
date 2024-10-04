@@ -19,3 +19,8 @@ Airlines are keen to enhance the passenger experience by understanding customer 
 ### Dataset Link- https://github.com/baiju012/Synthetic-Airline-Data-Analysis/tree/main/Dataset
 
 ### Project demonstration Link-
+![Screenshot 2024-10-01 152200](https://github.com/user-attachments/assets/1e628915-e234-443a-9d1b-a99802d1bf4f)
+![Screenshot 2024-10-01 152225](https://github.com/user-attachments/assets/d6a5b3b6-2f34-4fc6-a881-6f5fafb08c73)
+![Screenshot 2024-08-01 113125](https://github.com/user-attachments/assets/83342b98-98eb-4a15-975b-77d0cb56091f)
+![Screenshot 2024-08-01 113125](https://github.com/user-attachments/assets/519c0699-d546-4c29-a090-10d25dbc5ed7)
+![Screenshot 2024-08-06 180155](https://github.com/user-attachments/assets/14949574-6f15-4392-9bc5-665c392e05d7)
